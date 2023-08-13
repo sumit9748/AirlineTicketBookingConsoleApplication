@@ -1,0 +1,15 @@
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\bin\Debug\net6.0\FlightBooking.exe
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\bin\Debug\net6.0\FlightBooking.deps.json
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\bin\Debug\net6.0\FlightBooking.runtimeconfig.json
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\bin\Debug\net6.0\FlightBooking.dll
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\bin\Debug\net6.0\FlightBooking.pdb
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.csproj.AssemblyReference.cache
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.AssemblyInfoInputs.cache
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.AssemblyInfo.cs
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.csproj.CoreCompileInputs.cache
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.dll
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\refint\FlightBooking.dll
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.pdb
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\FlightBooking.genruntimeconfig.cache
+C:\Users\DELL.000\source\repos\FlightBooking\FlightBooking\obj\Debug\net6.0\ref\FlightBooking.dll
